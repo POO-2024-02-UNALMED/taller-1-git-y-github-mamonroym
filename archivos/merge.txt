@@ -1,0 +1,1 @@
+Ahora sí se pudo hacer commit y subir la carpeta "archivos" al repositorio web porque ya no estaba vacía
