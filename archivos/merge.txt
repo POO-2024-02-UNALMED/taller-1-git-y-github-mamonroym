@@ -1,3 +1,7 @@
 Maria José Monroy Mejía.
 18 años.
 Mi aspiración en esta materia es aprender más sobre los lenguajes de programación, específicamente, sobre Java ya que es nuevo para mí.
+Ahora sí se pudo hacer commit y subir la carpeta "archivos" al repositorio web porque ya no estaba vacía
+
+¿Por qué es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones?
+Es importante porque pueden surgir errores en el sistema. Aquí estamos tratando de subir un archivo "merge" desde el repositorio local al web y, en el web, ya existe un archivo llamado igual. Entonces, a pesar de que los dos se llamen igual, contienen diferente información y el sistema no sabe por cuál decidirse. Aquí juntamos a ambos.
